@@ -1,0 +1,247 @@
+[
+  {
+    "building": "Str. Ștefan cel Mare, nr. 5",
+    "number": 3,
+    "rooms": 3,
+    "area": 62.3,
+    "price": 120.00
+  },
+  {
+    "building": "Bulevardul Dacia, nr. 12",
+    "number": 2,
+    "rooms": 2,
+    "area": 50.5,
+    "price": 100.00
+  },
+  {
+    "building": "Str. Alba Iulia, nr. 8",
+    "number": 4,
+    "rooms": 4,
+    "area": 74.0,
+    "price": 210.00
+  },
+  {
+    "building": "Bulevardul Mircea cel Bătrân, nr. 21",
+    "number": 3,
+    "rooms": 3,
+    "area": 61.2,
+    "price": 180.00
+  },
+  {
+    "building": "Str. Ștefan cel Mare, nr. 5",
+    "number": 1,
+    "rooms": 2,
+    "area": 45.8,
+    "price": 120.00
+  },
+  {
+    "building": "Bulevardul Dacia, nr. 12",
+    "number": 7,
+    "rooms": 1,
+    "area": 38.0,
+    "price": 90.00
+  },
+  {
+    "building": "Str. Alba Iulia, nr. 8",
+    "number": 6,
+    "rooms": 3,
+    "area": 68.7,
+    "price": 200.00
+  },
+  {
+    "building": "Bulevardul Mircea cel Bătrân, nr. 21",
+    "number": 2,
+    "rooms": 4,
+    "area": 80.3,
+    "price": 250.00
+  },
+  {
+    "building": "Str. Ștefan cel Mare, nr. 5",
+    "number": 9,
+    "rooms": 2,
+    "area": 55.1,
+    "price": 140.00
+  },
+  {
+    "building": "Bulevardul Dacia, nr. 12",
+    "number": 8,
+    "rooms": 3,
+    "area": 62.8,
+    "price": 160.00
+  },
+  {
+    "building": "Str. Alba Iulia, nr. 8",
+    "number": 4,
+    "rooms": 4,
+    "area": 78.0,
+    "price": 220.00
+  },
+  {
+    "building": "Bulevardul Mircea cel Bătrân, nr. 21",
+    "number": 3,
+    "rooms": 3,
+    "area": 63.5,
+    "price": 180.00
+  },
+  {
+    "building": "Str. Ștefan cel Mare, nr. 5",
+    "number": 10,
+    "rooms": 2,
+    "area": 42.0,
+    "price": 120.00
+  },
+  {
+    "building": "Bulevardul Dacia, nr. 12",
+    "number": 5,
+    "rooms": 1,
+    "area": 28.4,
+    "price": 80.00
+  },
+  {
+    "building": "Str. Alba Iulia, nr. 8",
+    "number": 8,
+    "rooms": 3,
+    "area": 65.5,
+    "price": 200.00
+  },
+  {
+    "building": "Bulevardul Mircea cel Bătrân, nr. 21",
+    "number": 1,
+    "rooms": 2,
+    "area": 55.3,
+    "price": 130.00
+  },
+  {
+    "building": "Str. Ștefan cel Mare, nr. 5",
+    "number": 6,
+    "rooms": 4,
+    "area": 83.2,
+    "price": 240.00
+  },
+  {
+    "building": "Bulevardul Dacia, nr. 12",
+    "number": 12,
+    "rooms": 2,
+    "area": 50.7,
+    "price": 110.00
+  },
+  {
+    "building": "Str. Alba Iulia, nr. 8",
+    "number": 9,
+    "rooms": 3,
+    "area": 67.5,
+    "price": 180.00
+  },
+  {
+    "building": "Bulevardul Mircea cel Bătrân, nr. 21",
+    "number": 11,
+    "rooms": 2,
+    "area": 40.8,
+    "price": 130.00
+  },
+  {
+    "building": "Str. Ștefan cel Mare, nr. 5",
+    "number": 14,
+    "rooms": 3,
+    "area": 72.5,
+    "price": 210.00
+  },
+  {
+    "building": "Bulevardul Dacia, nr. 12",
+    "number": 13,
+    "rooms": 1,
+    "area": 33.9,
+    "price": 90.00
+  },
+  {
+    "building": "Str. Alba Iulia, nr. 8",
+    "number": 17,
+    "rooms": 2,
+    "area": 58.4,
+    "price": 140.00
+  },
+  {
+    "building": "Bulevardul Mircea cel Bătrân, nr. 21",
+    "number": 6,
+    "rooms": 3,
+    "area": 64.3,
+    "price": 180.00
+  },
+  {
+    "building": "Str. Ștefan cel Mare, nr. 5",
+    "number": 25,
+    "rooms": 4,
+    "area": 79.0,
+    "price": 230.00
+  },
+  {
+    "building": "Bulevardul Dacia, nr. 12",
+    "number": 19,
+    "rooms": 3,
+    "area": 62.6,
+    "price": 170.00
+  },
+  {
+    "building": "Str. Alba Iulia, nr. 8",
+    "number": 22,
+    "rooms": 2,
+    "area": 53.5,
+    "price": 140.00
+  },
+  {
+    "building": "Bulevardul Mircea cel Bătrân, nr. 21",
+    "number": 20,
+    "rooms": 3,
+    "area": 68.0,
+    "price": 200.00
+  },
+  {
+    "building": "Str. Ștefan cel Mare, nr. 5",
+    "number": 30,
+    "rooms": 1,
+    "area": 25.3,
+    "price": 80.00
+  },
+  {
+    "building": "Bulevardul Dacia, nr. 12",
+    "number": 26,
+    "rooms": 2,
+    "area": 47.0,
+    "price": 120.00
+  },
+  {
+    "building": "Str. Alba Iulia, nr. 8",
+    "number": 28,
+    "rooms": 4,
+    "area": 72.8,
+    "price": 210.00
+  },
+  {
+    "building": "Bulevardul Mircea cel Bătrân, nr. 21",
+    "number": 21,
+    "rooms": 2,
+    "area": 41.4,
+    "price": 110.00
+  },
+  {
+    "building": "Str. Ștefan cel Mare, nr. 5",
+    "number": 32,
+    "rooms": 3,
+    "area": 62.7,
+    "price": 180.00
+  },
+  {
+    "building": "Bulevardul Dacia, nr. 12",
+    "number": 31,
+    "rooms": 4,
+    "area": 80.5,
+    "price": 240.00
+  },
+  {
+    "building": "Str. Alba Iulia, nr. 8",
+    "number": 33,
+    "rooms": 2,
+    "area": 50.0,
+    "price": 130.00
+  }
+]

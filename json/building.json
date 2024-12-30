@@ -1,0 +1,18 @@
+[
+  {
+    "residential_complex": "The Grand Estate",
+    "address": "Str. Ștefan cel Mare, nr. 5"
+  },
+  {
+    "residential_complex": "Opal Tower",
+    "address": "Bulevardul Dacia, nr. 12"
+  },
+  {
+    "residential_complex": "Elysium Heights",
+    "address": "Str. Alba Iulia, nr. 8"
+  },
+  {
+    "residential_complex": "Diamond Plaza",
+    "address": "Bulevardul Mircea cel Bătrân, nr. 21"
+  }
+]

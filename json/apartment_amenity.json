@@ -1,0 +1,22 @@
+[
+  {
+    "building": "Str. Ștefan cel Mare, nr. 5",
+    "apartment": 3,
+    "amenity": "Ванна"
+  },
+  {
+    "building": "Str. Ștefan cel Mare, nr. 5",
+    "apartment": 3,
+    "amenity": "Кондиционер"
+  },
+  {
+    "building": "Str. Ștefan cel Mare, nr. 5",
+    "apartment": 3,
+    "amenity": "Балкон"
+  },
+  {
+    "building": "Bulevardul Dacia, nr. 12",
+    "apartment": 2,
+    "amenity": "Лифт"
+  }
+]

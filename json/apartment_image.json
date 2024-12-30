@@ -1,0 +1,1658 @@
+[
+  {
+    "apartment": 1,
+    "image": "images/Apart1.1.jpg",
+    "main": true,
+    "building": "Str. Ștefan cel Mare, nr. 5"
+  },
+  {
+    "apartment": 1,
+    "image": "images/Apart1.2.jpg",
+    "main": false,
+    "building": "Str. Ștefan cel Mare, nr. 5"
+  },
+  {
+    "apartment": 1,
+    "image": "images/Apart1.3.jpg",
+    "main": false,
+    "building": "Str. Ștefan cel Mare, nr. 5"
+  },
+  {
+    "apartment": 1,
+    "image": "images/Apart1.4.jpg",
+    "main": false,
+    "building": "Str. Ștefan cel Mare, nr. 5"
+  },
+  {
+    "apartment": 1,
+    "image": "images/Apart1.5.jpg",
+    "main": false,
+    "building": "Str. Ștefan cel Mare, nr. 5"
+  },
+  {
+    "apartment": 1,
+    "image": "images/Apart1.6.jpg",
+    "main": false,
+    "building": "Str. Ștefan cel Mare, nr. 5"
+  },
+  {
+    "apartment": 1,
+    "image": "images/Apart1.7.jpg",
+    "main": false,
+    "building": "Str. Ștefan cel Mare, nr. 5"
+  },
+  {
+    "apartment": 2,
+    "image": "images/Apart2.1.jpg",
+    "main": true,
+    "building": "Str. Ștefan cel Mare, nr. 5"
+  },
+  {
+    "apartment": 2,
+    "image": "images/Apart2.2.jpg",
+    "main": false,
+    "building": "Str. Ștefan cel Mare, nr. 5"
+  },
+  {
+    "apartment": 2,
+    "image": "images/Apart2.3.jpg",
+    "main": false,
+    "building": "Str. Ștefan cel Mare, nr. 5"
+  },
+  {
+    "apartment": 2,
+    "image": "images/Apart2.4.jpg",
+    "main": false,
+    "building": "Str. Ștefan cel Mare, nr. 5"
+  },
+  {
+    "apartment": 2,
+    "image": "images/Apart2.5.jpg",
+    "main": false,
+    "building": "Str. Ștefan cel Mare, nr. 5"
+  },
+  {
+    "apartment": 2,
+    "image": "images/Apart2.6.jpg",
+    "main": false,
+    "building": "Str. Ștefan cel Mare, nr. 5"
+  },
+  {
+    "apartment": 2,
+    "image": "images/Apart2.7.jpg",
+    "main": false,
+    "building": "Str. Ștefan cel Mare, nr. 5"
+  },
+  {
+    "apartment": 3,
+    "image": "images/Apart3.1.jpg",
+    "main": true,
+    "building": "Str. Ștefan cel Mare, nr. 5"
+  },
+  {
+    "apartment": 3,
+    "image": "images/Apart3.2.jpg",
+    "main": false,
+    "building": "Str. Ștefan cel Mare, nr. 5"
+  },
+  {
+    "apartment": 3,
+    "image": "images/Apart3.3.jpg",
+    "main": false,
+    "building": "Str. Ștefan cel Mare, nr. 5"
+  },
+  {
+    "apartment": 3,
+    "image": "images/Apart3.4.jpg",
+    "main": false,
+    "building": "Str. Ștefan cel Mare, nr. 5"
+  },
+  {
+    "apartment": 3,
+    "image": "images/Apart3.5.jpg",
+    "main": false,
+    "building": "Str. Ștefan cel Mare, nr. 5"
+  },
+  {
+    "apartment": 3,
+    "image": "images/Apart3.6.jpg",
+    "main": false,
+    "building": "Str. Ștefan cel Mare, nr. 5"
+  },
+  {
+    "apartment": 3,
+    "image": "images/Apart3.7.jpg",
+    "main": false,
+    "building": "Str. Ștefan cel Mare, nr. 5"
+  },
+  {
+    "apartment": 3,
+    "image": "images/Apart3.8.jpg",
+    "main": false,
+    "building": "Str. Ștefan cel Mare, nr. 5"
+  },
+  {
+    "apartment": 4,
+    "image": "images/Apart4.1.jpg",
+    "main": true,
+    "building": "Str. Ștefan cel Mare, nr. 5"
+  },
+  {
+    "apartment": 4,
+    "image": "images/Apart4.2.jpg",
+    "main": false,
+    "building": "Str. Ștefan cel Mare, nr. 5"
+  },
+  {
+    "apartment": 4,
+    "image": "images/Apart4.3.jpg",
+    "main": false,
+    "building": "Str. Ștefan cel Mare, nr. 5"
+  },
+  {
+    "apartment": 4,
+    "image": "images/Apart4.4.jpg",
+    "main": false,
+    "building": "Str. Ștefan cel Mare, nr. 5"
+  },
+  {
+    "apartment": 4,
+    "image": "images/Apart4.5.jpg",
+    "main": false,
+    "building": "Str. Ștefan cel Mare, nr. 5"
+  },
+  {
+    "apartment": 4,
+    "image": "images/Apart4.6.jpg",
+    "main": false,
+    "building": "Str. Ștefan cel Mare, nr. 5"
+  },
+  {
+    "apartment": 4,
+    "image": "images/Apart4.7.jpg",
+    "main": false,
+    "building": "Str. Ștefan cel Mare, nr. 5"
+  },
+  {
+    "apartment": 5,
+    "image": "images/Apart5.1.jpg",
+    "main": true,
+    "building": "Str. Ștefan cel Mare, nr. 5"
+  },
+  {
+    "apartment": 5,
+    "image": "images/Apart5.2.jpg",
+    "main": false,
+    "building": "Str. Ștefan cel Mare, nr. 5"
+  },
+  {
+    "apartment": 5,
+    "image": "images/Apart5.3.jpg",
+    "main": false,
+    "building": "Str. Ștefan cel Mare, nr. 5"
+  },
+  {
+    "apartment": 5,
+    "image": "images/Apart5.4.jpg",
+    "main": false,
+    "building": "Str. Ștefan cel Mare, nr. 5"
+  },
+  {
+    "apartment": 5,
+    "image": "images/Apart5.5.jpg",
+    "main": false,
+    "building": "Str. Ștefan cel Mare, nr. 5"
+  },
+  {
+    "apartment": 5,
+    "image": "images/Apart5.6.jpg",
+    "main": false,
+    "building": "Str. Ștefan cel Mare, nr. 5"
+  },
+  {
+    "apartment": 5,
+    "image": "images/Apart5.7.jpg",
+    "main": false,
+    "building": "Str. Ștefan cel Mare, nr. 5"
+  },
+  {
+    "apartment": 6,
+    "image": "images/Apart6.1.jpg",
+    "main": true,
+    "building": "Bulevardul Dacia, nr. 12"
+  },
+  {
+    "apartment": 6,
+    "image": "images/Apart6.2.jpg",
+    "main": false,
+    "building": "Bulevardul Dacia, nr. 12"
+  },
+  {
+    "apartment": 6,
+    "image": "images/Apart6.3.jpg",
+    "main": false,
+    "building": "Bulevardul Dacia, nr. 12"
+  },
+  {
+    "apartment": 6,
+    "image": "images/Apart6.4.jpg",
+    "main": false,
+    "building": "Bulevardul Dacia, nr. 12"
+  },
+  {
+    "apartment": 6,
+    "image": "images/Apart6.5.jpg",
+    "main": false,
+    "building": "Bulevardul Dacia, nr. 12"
+  },
+  {
+    "apartment": 6,
+    "image": "images/Apart6.6.jpg",
+    "main": false,
+    "building": "Bulevardul Dacia, nr. 12"
+  },
+  {
+    "apartment": 7,
+    "image": "images/Apart7.1.jpg",
+    "main": true,
+    "building": "Bulevardul Dacia, nr. 12"
+  },
+  {
+    "apartment": 7,
+    "image": "images/Apart7.2.jpg",
+    "main": false,
+    "building": "Bulevardul Dacia, nr. 12"
+  },
+  {
+    "apartment": 7,
+    "image": "images/Apart7.3.jpg",
+    "main": false,
+    "building": "Bulevardul Dacia, nr. 12"
+  },
+  {
+    "apartment": 7,
+    "image": "images/Apart7.4.jpg",
+    "main": false,
+    "building": "Bulevardul Dacia, nr. 12"
+  },
+  {
+    "apartment": 7,
+    "image": "images/Apart7.5.jpg",
+    "main": false,
+    "building": "Bulevardul Dacia, nr. 12"
+  },
+  {
+    "apartment": 7,
+    "image": "images/Apart7.6.jpg",
+    "main": false,
+    "building": "Bulevardul Dacia, nr. 12"
+  },
+  {
+    "apartment": 7,
+    "image": "images/Apart7.7.jpg",
+    "main": false,
+    "building": "Bulevardul Dacia, nr. 12"
+  },
+  {
+    "apartment": 8,
+    "image": "images/Apart8.1.jpg",
+    "main": true,
+    "building": "Bulevardul Dacia, nr. 12"
+  },
+  {
+    "apartment": 8,
+    "image": "images/Apart8.2.jpg",
+    "main": false,
+    "building": "Bulevardul Dacia, nr. 12"
+  },
+  {
+    "apartment": 8,
+    "image": "images/Apart8.3.jpg",
+    "main": false,
+    "building": "Bulevardul Dacia, nr. 12"
+  },
+  {
+    "apartment": 8,
+    "image": "images/Apart8.4.jpg",
+    "main": false,
+    "building": "Bulevardul Dacia, nr. 12"
+  },
+  {
+    "apartment": 8,
+    "image": "images/Apart8.5.jpg",
+    "main": false,
+    "building": "Bulevardul Dacia, nr. 12"
+  },
+  {
+    "apartment": 8,
+    "image": "images/Apart8.6.jpg",
+    "main": false,
+    "building": "Bulevardul Dacia, nr. 12"
+  },
+  {
+    "apartment": 8,
+    "image": "images/Apart8.7.jpg",
+    "main": false,
+    "building": "Bulevardul Dacia, nr. 12"
+  },
+  {
+    "apartment": 8,
+    "image": "images/Apart8.8.jpg",
+    "main": false,
+    "building": "Bulevardul Dacia, nr. 12"
+  },
+  {
+    "apartment": 9,
+    "image": "images/Apart9.1.jpg",
+    "main": true,
+    "building": "Bulevardul Dacia, nr. 12"
+  },
+  {
+    "apartment": 9,
+    "image": "images/Apart9.2.jpg",
+    "main": false,
+    "building": "Bulevardul Dacia, nr. 12"
+  },
+  {
+    "apartment": 9,
+    "image": "images/Apart9.3.jpg",
+    "main": false,
+    "building": "Bulevardul Dacia, nr. 12"
+  },
+  {
+    "apartment": 9,
+    "image": "images/Apart9.4.jpg",
+    "main": false,
+    "building": "Bulevardul Dacia, nr. 12"
+  },
+  {
+    "apartment": 9,
+    "image": "images/Apart9.5.jpg",
+    "main": false,
+    "building": "Bulevardul Dacia, nr. 12"
+  },
+  {
+    "apartment": 9,
+    "image": "images/Apart9.6.jpg",
+    "main": false,
+    "building": "Bulevardul Dacia, nr. 12"
+  },
+  {
+    "apartment": 9,
+    "image": "images/Apart9.7.jpg",
+    "main": false,
+    "building": "Bulevardul Dacia, nr. 12"
+  },
+  {
+    "apartment": 9,
+    "image": "images/Apart9.8.jpg",
+    "main": false,
+    "building": "Bulevardul Dacia, nr. 12"
+  },
+  {
+    "apartment": 10,
+    "image": "images/Apart10.1.jpg",
+    "main": true,
+    "building": "Bulevardul Dacia, nr. 12"
+  },
+  {
+    "apartment": 10,
+    "image": "images/Apart10.2.jpg",
+    "main": false,
+    "building": "Bulevardul Dacia, nr. 12"
+  },
+  {
+    "apartment": 10,
+    "image": "images/Apart10.3.jpg",
+    "main": false,
+    "building": "Bulevardul Dacia, nr. 12"
+  },
+  {
+    "apartment": 10,
+    "image": "images/Apart10.4.jpg",
+    "main": false,
+    "building": "Bulevardul Dacia, nr. 12"
+  },
+  {
+    "apartment": 10,
+    "image": "images/Apart10.5.jpg",
+    "main": false,
+    "building": "Bulevardul Dacia, nr. 12"
+  },
+  {
+    "apartment": 10,
+    "image": "images/Apart10.6.jpg",
+    "main": false,
+    "building": "Bulevardul Dacia, nr. 12"
+  },
+  {
+    "apartment": 10,
+    "image": "images/Apart10.7.jpg",
+    "main": false,
+    "building": "Bulevardul Dacia, nr. 12"
+  },
+  {
+    "apartment": 10,
+    "image": "images/Apart10.8.jpg",
+    "main": false,
+    "building": "Bulevardul Dacia, nr. 12"
+  },
+  {
+    "apartment": 11,
+    "image": "images/Apart11.1.jpg",
+    "main": true,
+    "building": "Bulevardul Dacia, nr. 12"
+  },
+  {
+    "apartment": 11,
+    "image": "images/Apart11.2.jpg",
+    "main": false,
+    "building": "Bulevardul Dacia, nr. 12"
+  },
+  {
+    "apartment": 11,
+    "image": "images/Apart11.3.jpg",
+    "main": false,
+    "building": "Bulevardul Dacia, nr. 12"
+  },
+  {
+    "apartment": 11,
+    "image": "images/Apart11.4.jpg",
+    "main": false,
+    "building": "Bulevardul Dacia, nr. 12"
+  },
+  {
+    "apartment": 11,
+    "image": "images/Apart11.5.jpg",
+    "main": false,
+    "building": "Bulevardul Dacia, nr. 12"
+  },
+  {
+    "apartment": 11,
+    "image": "images/Apart11.6.jpg",
+    "main": false,
+    "building": "Bulevardul Dacia, nr. 12"
+  },
+  {
+    "apartment": 11,
+    "image": "images/Apart11.7.jpg",
+    "main": false,
+    "building": "Bulevardul Dacia, nr. 12"
+  },
+  {
+    "apartment": 11,
+    "image": "images/Apart11.8.jpg",
+    "main": false,
+    "building": "Bulevardul Dacia, nr. 12"
+  },
+  {
+    "apartment": 11,
+    "image": "images/Apart11.9.jpg",
+    "main": false,
+    "building": "Bulevardul Dacia, nr. 12"
+  },
+  {
+    "apartment": 12,
+    "image": "images/Apart12.1.jpg",
+    "main": true,
+    "building": "Str. Alba Iulia, nr. 8"
+  },
+  {
+    "apartment": 12,
+    "image": "images/Apart12.2.jpg",
+    "main": false,
+    "building": "Str. Alba Iulia, nr. 8"
+  },
+  {
+    "apartment": 12,
+    "image": "images/Apart12.3.jpg",
+    "main": false,
+    "building": "Str. Alba Iulia, nr. 8"
+  },
+  {
+    "apartment": 12,
+    "image": "images/Apart12.4.jpg",
+    "main": false,
+    "building": "Str. Alba Iulia, nr. 8"
+  },
+  {
+    "apartment": 12,
+    "image": "images/Apart12.5.jpg",
+    "main": false,
+    "building": "Str. Alba Iulia, nr. 8"
+  },
+  {
+    "apartment": 12,
+    "image": "images/Apart12.6.jpg",
+    "main": false,
+    "building": "Str. Alba Iulia, nr. 8"
+  },
+  {
+    "apartment": 12,
+    "image": "images/Apart12.7.jpg",
+    "main": false,
+    "building": "Str. Alba Iulia, nr. 8"
+  },
+  {
+    "apartment": 12,
+    "image": "images/Apart12.8.jpg",
+    "main": false,
+    "building": "Str. Alba Iulia, nr. 8"
+  },
+  {
+    "apartment": 13,
+    "image": "images/Apart13.1.jpg",
+    "main": true,
+    "building": "Str. Alba Iulia, nr. 8"
+  },
+  {
+    "apartment": 13,
+    "image": "images/Apart13.2.jpg",
+    "main": false,
+    "building": "Str. Alba Iulia, nr. 8"
+  },
+  {
+    "apartment": 13,
+    "image": "images/Apart13.3.jpg",
+    "main": false,
+    "building": "Str. Alba Iulia, nr. 8"
+  },
+  {
+    "apartment": 13,
+    "image": "images/Apart13.4.jpg",
+    "main": false,
+    "building": "Str. Alba Iulia, nr. 8"
+  },
+  {
+    "apartment": 14,
+    "image": "images/Apart14.1.jpg",
+    "main": true,
+    "building": "Str. Alba Iulia, nr. 8"
+  },
+  {
+    "apartment": 14,
+    "image": "images/Apart14.2.jpg",
+    "main": false,
+    "building": "Str. Alba Iulia, nr. 8"
+  },
+  {
+    "apartment": 14,
+    "image": "images/Apart14.3.jpg",
+    "main": false,
+    "building": "Str. Alba Iulia, nr. 8"
+  },
+  {
+    "apartment": 14,
+    "image": "images/Apart14.4.jpg",
+    "main": false,
+    "building": "Str. Alba Iulia, nr. 8"
+  },
+  {
+    "apartment": 14,
+    "image": "images/Apart14.5.jpg",
+    "main": false,
+    "building": "Str. Alba Iulia, nr. 8"
+  },
+  {
+    "apartment": 14,
+    "image": "images/Apart14.6.jpg",
+    "main": false,
+    "building": "Str. Alba Iulia, nr. 8"
+  },
+  {
+    "apartment": 15,
+    "image": "images/Apart15.1.jpg",
+    "main": true,
+    "building": "Str. Alba Iulia, nr. 8"
+  },
+  {
+    "apartment": 15,
+    "image": "images/Apart15.2.jpg",
+    "main": false,
+    "building": "Str. Alba Iulia, nr. 8"
+  },
+  {
+    "apartment": 15,
+    "image": "images/Apart15.3.jpg",
+    "main": false,
+    "building": "Str. Alba Iulia, nr. 8"
+  },
+  {
+    "apartment": 15,
+    "image": "images/Apart15.4.jpg",
+    "main": false,
+    "building": "Str. Alba Iulia, nr. 8"
+  },
+  {
+    "apartment": 15,
+    "image": "images/Apart15.5.jpg",
+    "main": false,
+    "building": "Str. Alba Iulia, nr. 8"
+  },
+  {
+    "apartment": 15,
+    "image": "images/Apart15.6.jpg",
+    "main": false,
+    "building": "Str. Alba Iulia, nr. 8"
+  },
+  {
+    "apartment": 15,
+    "image": "images/Apart15.7.jpg",
+    "main": false,
+    "building": "Str. Alba Iulia, nr. 8"
+  },
+  {
+    "apartment": 15,
+    "image": "images/Apart15.8.jpg",
+    "main": false,
+    "building": "Str. Alba Iulia, nr. 8"
+  },
+  {
+    "apartment": 15,
+    "image": "images/Apart15.9.jpg",
+    "main": false,
+    "building": "Str. Alba Iulia, nr. 8"
+  },
+  {
+    "apartment": 16,
+    "image": "images/Apart16.1.jpg",
+    "main": true,
+    "building": "Bulevardul Mircea cel Bătrân, nr. 21"
+  },
+  {
+    "apartment": 16,
+    "image": "images/Apart16.2.jpg",
+    "main": false,
+    "building": "Bulevardul Mircea cel Bătrân, nr. 21"
+  },
+  {
+    "apartment": 16,
+    "image": "images/Apart16.3.jpg",
+    "main": false,
+    "building": "Bulevardul Mircea cel Bătrân, nr. 21"
+  },
+  {
+    "apartment": 16,
+    "image": "images/Apart16.4.jpg",
+    "main": false,
+    "building": "Bulevardul Mircea cel Bătrân, nr. 21"
+  },
+  {
+    "apartment": 16,
+    "image": "images/Apart16.5.jpg",
+    "main": false,
+    "building": "Bulevardul Mircea cel Bătrân, nr. 21"
+  },
+  {
+    "apartment": 16,
+    "image": "images/Apart16.6.jpg",
+    "main": false,
+    "building": "Bulevardul Mircea cel Bătrân, nr. 21"
+  },
+  {
+    "apartment": 16,
+    "image": "images/Apart16.7.jpg",
+    "main": false,
+    "building": "Bulevardul Mircea cel Bătrân, nr. 21"
+  },
+  {
+    "apartment": 16,
+    "image": "images/Apart16.8.jpg",
+    "main": false,
+    "building": "Bulevardul Mircea cel Bătrân, nr. 21"
+  },
+  {
+    "apartment": 16,
+    "image": "images/Apart16.9.jpg",
+    "main": false,
+    "building": "Bulevardul Mircea cel Bătrân, nr. 21"
+  },
+  {
+    "apartment": 17,
+    "image": "images/Apart17.1.jpg",
+    "main": true,
+    "building": "Bulevardul Mircea cel Bătrân, nr. 21"
+  },
+  {
+    "apartment": 17,
+    "image": "images/Apart17.2.jpg",
+    "main": false,
+    "building": "Bulevardul Mircea cel Bătrân, nr. 21"
+  },
+  {
+    "apartment": 17,
+    "image": "images/Apart17.3.jpg",
+    "main": false,
+    "building": "Bulevardul Mircea cel Bătrân, nr. 21"
+  },
+  {
+    "apartment": 17,
+    "image": "images/Apart17.4.jpg",
+    "main": false,
+    "building": "Bulevardul Mircea cel Bătrân, nr. 21"
+  },
+  {
+    "apartment": 17,
+    "image": "images/Apart17.5.jpg",
+    "main": false,
+    "building": "Bulevardul Mircea cel Bătrân, nr. 21"
+  },
+  {
+    "apartment": 17,
+    "image": "images/Apart17.6.jpg",
+    "main": false,
+    "building": "Bulevardul Mircea cel Bătrân, nr. 21"
+  },
+  {
+    "apartment": 17,
+    "image": "images/Apart17.7.jpg",
+    "main": false,
+    "building": "Bulevardul Mircea cel Bătrân, nr. 21"
+  },
+  {
+    "apartment": 17,
+    "image": "images/Apart17.8.jpg",
+    "main": false,
+    "building": "Bulevardul Mircea cel Bătrân, nr. 21"
+  },
+  {
+    "apartment": 17,
+    "image": "images/Apart17.9.jpg",
+    "main": false,
+    "building": "Bulevardul Mircea cel Bătrân, nr. 21"
+  },
+  {
+    "apartment": 18,
+    "image": "images/Apart18.1.jpg",
+    "main": true,
+    "building": "Bulevardul Mircea cel Bătrân, nr. 21"
+  },
+  {
+    "apartment": 18,
+    "image": "images/Apart18.2.jpg",
+    "main": false,
+    "building": "Bulevardul Mircea cel Bătrân, nr. 21"
+  },
+  {
+    "apartment": 18,
+    "image": "images/Apart18.3.jpg",
+    "main": false,
+    "building": "Bulevardul Mircea cel Bătrân, nr. 21"
+  },
+  {
+    "apartment": 18,
+    "image": "images/Apart18.4.jpg",
+    "main": false,
+    "building": "Bulevardul Mircea cel Bătrân, nr. 21"
+  },
+  {
+    "apartment": 18,
+    "image": "images/Apart18.5.jpg",
+    "main": false,
+    "building": "Bulevardul Mircea cel Bătrân, nr. 21"
+  },
+  {
+    "apartment": 18,
+    "image": "images/Apart18.6.jpg",
+    "main": false,
+    "building": "Bulevardul Mircea cel Bătrân, nr. 21"
+  },
+  {
+    "apartment": 18,
+    "image": "images/Apart18.7.jpg",
+    "main": false,
+    "building": "Bulevardul Mircea cel Bătrân, nr. 21"
+  },
+  {
+    "apartment": 18,
+    "image": "images/Apart18.8.jpg",
+    "main": false,
+    "building": "Bulevardul Mircea cel Bătrân, nr. 21"
+  },
+  {
+    "apartment": 19,
+    "image": "images/Apart19.1.jpg",
+    "main": true,
+    "building": "Bulevardul Mircea cel Bătrân, nr. 21"
+  },
+  {
+    "apartment": 19,
+    "image": "images/Apart19.2.jpg",
+    "main": false,
+    "building": "Bulevardul Mircea cel Bătrân, nr. 21"
+  },
+  {
+    "apartment": 19,
+    "image": "images/Apart19.3.jpg",
+    "main": false,
+    "building": "Bulevardul Mircea cel Bătrân, nr. 21"
+  },
+  {
+    "apartment": 19,
+    "image": "images/Apart19.4.jpg",
+    "main": false,
+    "building": "Bulevardul Mircea cel Bătrân, nr. 21"
+  },
+  {
+    "apartment": 19,
+    "image": "images/Apart19.5.jpg",
+    "main": false,
+    "building": "Bulevardul Mircea cel Bătrân, nr. 21"
+  },
+  {
+    "apartment": 19,
+    "image": "images/Apart19.6.jpg",
+    "main": false,
+    "building": "Bulevardul Mircea cel Bătrân, nr. 21"
+  },
+  {
+    "apartment": 19,
+    "image": "images/Apart19.7.jpg",
+    "main": false,
+    "building": "Bulevardul Mircea cel Bătrân, nr. 21"
+  },
+  {
+    "apartment": 19,
+    "image": "images/Apart19.8.jpg",
+    "main": false,
+    "building": "Bulevardul Mircea cel Bătrân, nr. 21"
+  },
+  {
+    "apartment": 20,
+    "image": "images/Apart20.1.jpg",
+    "main": true,
+    "building": "Bulevardul Mircea cel Bătrân, nr. 21"
+  },
+  {
+    "apartment": 20,
+    "image": "images/Apart20.2.jpg",
+    "main": false,
+    "building": "Bulevardul Mircea cel Bătrân, nr. 21"
+  },
+  {
+    "apartment": 20,
+    "image": "images/Apart20.3.jpg",
+    "main": false,
+    "building": "Bulevardul Mircea cel Bătrân, nr. 21"
+  },
+  {
+    "apartment": 20,
+    "image": "images/Apart20.4.jpg",
+    "main": false,
+    "building": "Bulevardul Mircea cel Bătrân, nr. 21"
+  },
+  {
+    "apartment": 20,
+    "image": "images/Apart20.5.jpg",
+    "main": false,
+    "building": "Bulevardul Mircea cel Bătrân, nr. 21"
+  },
+  {
+    "apartment": 20,
+    "image": "images/Apart20.6.jpg",
+    "main": false,
+    "building": "Bulevardul Mircea cel Bătrân, nr. 21"
+  },
+  {
+    "apartment": 20,
+    "image": "images/Apart20.7.jpg",
+    "main": false,
+    "building": "Bulevardul Mircea cel Bătrân, nr. 21"
+  },
+  { 
+    "apartment": 20,
+    "image": "images/Apart20.8.jpg",
+    "main": false,
+    "building": "Bulevardul Mircea cel Bătrân, nr. 21"
+  },
+  {
+    "apartment": 20,
+    "image": "images/Apart20.9.jpg",
+    "main": false,
+    "building": "Str. Alba Iulia, nr. 8"
+  },
+  {
+    "apartment": 21,
+    "image": "images/Apart21.1.jpg",
+    "main": true,
+    "building": "Str. Alba Iulia, nr. 8"
+  },
+  {
+    "apartment": 21,
+    "image": "images/Apart21.2.jpg",
+    "main": false,
+    "building": "Str. Alba Iulia, nr. 8"
+  },
+  {
+    "apartment": 21,
+    "image": "images/Apart21.3.jpg",
+    "main": false,
+    "building": "Str. Alba Iulia, nr. 8"
+  },
+  {
+    "apartment": 21,
+    "image": "images/Apart21.4.jpg",
+    "main": false,
+    "building": "Str. Alba Iulia, nr. 8"
+  },
+  {
+    "apartment": 21,
+    "image": "images/Apart21.5.jpg",
+    "main": false,
+    "building": "Str. Alba Iulia, nr. 8"
+  },
+  {
+    "apartment": 21,
+    "image": "images/Apart21.6.jpg",
+    "main": false,
+    "building": "Str. Alba Iulia, nr. 8"
+  },
+  {
+    "apartment": 21,
+    "image": "images/Apart21.7.jpg",
+    "main": false,
+    "building": "Str. Alba Iulia, nr. 8"
+  },
+  {
+    "apartment": 22,
+    "image": "images/Apart22.1.jpg",
+    "main": true,
+    "building": "Str. Alba Iulia, nr. 8"
+  },
+  {
+    "apartment": 22,
+    "image": "images/Apart22.2.jpg",
+    "main": false,
+    "building": "Str. Alba Iulia, nr. 8"
+  },
+  {
+    "apartment": 22,
+    "image": "images/Apart22.3.jpg",
+    "main": false,
+    "building": "Str. Alba Iulia, nr. 8"
+  },
+  {
+    "apartment": 22,
+    "image": "images/Apart22.4.jpg",
+    "main": false,
+    "building": "Str. Alba Iulia, nr. 8"
+  },
+  {
+    "apartment": 22,
+    "image": "images/Apart22.5.jpg",
+    "main": false,
+    "building": "Str. Alba Iulia, nr. 8"
+  },
+  {
+    "apartment": 22,
+    "image": "images/Apart22.6.jpg",
+    "main": false,
+    "building": "Str. Alba Iulia, nr. 8"
+  },
+  {
+    "apartment": 22,
+    "image": "images/Apart22.7.jpg",
+    "main": false,
+    "building": "Str. Alba Iulia, nr. 8"
+  },
+  {
+    "apartment": 22,
+    "image": "images/Apart22.8.jpg",
+    "main": false,
+    "building": "Str. Alba Iulia, nr. 8"
+  },
+  {
+    "apartment": 22,
+    "image": "images/Apart22.9.jpg",
+    "main": false,
+    "building": "Str. Alba Iulia, nr. 8"
+  },
+  {
+    "apartment": 23,
+    "image": "images/Apart23.1.jpg",
+    "main": true,
+    "building": "Str. Alba Iulia, nr. 8"
+  },
+  {
+    "apartment": 23,
+    "image": "images/Apart23.2.jpg",
+    "main": false,
+    "building": "Str. Alba Iulia, nr. 8"
+  },
+  {
+    "apartment": 23,
+    "image": "images/Apart23.3.jpg",
+    "main": false,
+    "building": "Str. Alba Iulia, nr. 8"
+  },
+  {
+    "apartment": 23,
+    "image": "images/Apart23.4.jpg",
+    "main": false,
+    "building": "Str. Alba Iulia, nr. 8"
+  },
+  {
+    "apartment": 23,
+    "image": "images/Apart23.5.jpg",
+    "main": false,
+    "building": "Str. Alba Iulia, nr. 8"
+  },
+  { 
+    "apartment": 23,
+    "image": "images/Apart23.6.jpg",
+    "main": false,
+    "building": "Str. Alba Iulia, nr. 8"
+  },
+  {
+    "apartment": 23,
+    "image": "images/Apart23.7.jpg",
+    "main": false,
+    "building": "Str. Alba Iulia, nr. 8"
+  },
+  {
+    "apartment": 23,
+    "image": "images/Apart23.8.jpg",
+    "main": false,
+    "building": "Str. Alba Iulia, nr. 8"
+  },
+   {
+    "apartment": 24,
+    "image": "images/Apart24.1.jpg",
+    "main": true,
+    "building": "Str. Alba Iulia, nr. 8"
+  },
+  {
+    "apartment": 24,
+    "image": "images/Apart24.2.jpg",
+    "main": false,
+    "building": "Str. Alba Iulia, nr. 8"
+  },
+  {
+    "apartment": 24,
+    "image": "images/Apart24.3.jpg",
+    "main": false,
+    "building": "Str. Alba Iulia, nr. 8"
+  },
+  {
+    "apartment": 24,
+    "image": "images/Apart24.4.jpg",
+    "main": false,
+    "building": "Str. Alba Iulia, nr. 8"
+  },
+  {
+    "apartment": 24,
+    "image": "images/Apart24.5.jpg",
+    "main": false,
+    "building": "Str. Alba Iulia, nr. 8"
+  },
+  {
+    "apartment": 24,
+    "image": "images/Apart24.6.jpg",
+    "main": false,
+    "building": "Str. Alba Iulia, nr. 8"
+  },
+  {
+    "apartment": 24,
+    "image": "images/Apart24.7.jpg",
+    "main": false,
+    "building": "Str. Alba Iulia, nr. 8"
+  },
+  {
+    "apartment": 24,
+    "image": "images/Apart24.8.jpg",
+    "main": false,
+    "building": "Str. Alba Iulia, nr. 8"
+  },
+  {
+    "apartment": 24,
+    "image": "images/Apart24.9.jpg",
+    "main": false,
+    "building": "Str. Alba Iulia, nr. 8"
+  },
+  {
+    "apartment": 25,
+    "image": "images/Apart25.1.jpg",
+    "main": true,
+    "building": "Str. Alba Iulia, nr. 8"
+  },
+  {
+    "apartment": 25,
+    "image": "images/Apart25.2.jpg",
+    "main": false,
+    "building": "Str. Alba Iulia, nr. 8"
+  },
+  {
+    "apartment": 25,
+    "image": "images/Apart25.3.jpg",
+    "main": false,
+    "building": "Str. Alba Iulia, nr. 8"
+  },
+  {
+    "apartment": 25,
+    "image": "images/Apart25.4.jpg",
+    "main": false,
+    "building": "Str. Alba Iulia, nr. 8"
+  },
+  {
+    "apartment": 25,
+    "image": "images/Apart25.5.jpg",
+    "main": false,
+    "building": "Str. Alba Iulia, nr. 8"
+  },
+  {
+    "apartment": 25,
+    "image": "images/Apart25.6.jpg",
+    "main": false,
+    "building": "Str. Alba Iulia, nr. 8"
+  },
+  {
+    "apartment": 25,
+    "image": "images/Apart25.7.jpg",
+    "main": false,
+    "building": "Str. Alba Iulia, nr. 8"
+  },
+  {
+    "apartment": 26,
+    "image": "images/Apart26.1.jpg",
+    "main": true,
+    "building": "Str. Alba Iulia, nr. 8"
+  },
+  {
+    "apartment": 26,
+    "image": "images/Apart26.2.jpg",
+    "main": false,
+    "building": "Str. Alba Iulia, nr. 8"
+  },
+  {
+    "apartment": 26,
+    "image": "images/Apart26.3.jpg",
+    "main": false,
+    "building": "Str. Alba Iulia, nr. 8"
+  },
+  {
+    "apartment": 26,
+    "image": "images/Apart26.4.jpg",
+    "main": false,
+    "building": "Str. Alba Iulia, nr. 8"
+  },
+  {
+    "apartment": 26,
+    "image": "images/Apart26.5.jpg",
+    "main": false,
+    "building": "Str. Alba Iulia, nr. 8"
+  },
+  {
+    "apartment": 26,
+    "image": "images/Apart26.6.jpg",
+    "main": false,
+    "building": "Str. Alba Iulia, nr. 8"
+  },
+  {
+    "apartment": 26,
+    "image": "images/Apart26.7.jpg",
+    "main": false,
+    "building": "Str. Alba Iulia, nr. 8"
+  },
+  {
+    "apartment": 26,
+    "image": "images/Apart26.8.jpg",
+    "main": false,
+    "building": "Str. Alba Iulia, nr. 8"
+  },
+  {
+    "apartment": 27,
+    "image": "images/Apart27.1.jpg",
+    "main": true,
+    "building": "Bulevardul Dacia, nr. 12"
+  },
+  {
+    "apartment": 27,
+    "image": "images/Apart27.2.jpg",
+    "main": false,
+    "building": "Bulevardul Dacia, nr. 12"
+  },
+  {
+    "apartment": 27,
+    "image": "images/Apart27.3.jpg",
+    "main": false,
+    "building": "Bulevardul Dacia, nr. 12"
+  },
+  {
+    "apartment": 27,
+    "image": "images/Apart27.4.jpg",
+    "main": false,
+    "building": "Bulevardul Dacia, nr. 12"
+  },
+  {
+    "apartment": 27,
+    "image": "images/Apart27.5.jpg",
+    "main": false,
+    "building": "Bulevardul Dacia, nr. 12"
+  },
+  {
+    "apartment": 27,
+    "image": "images/Apart27.6.jpg",
+    "main": false,
+    "building": "Bulevardul Dacia, nr. 12"
+  },
+  {
+    "apartment": 27,
+    "image": "images/Apart27.7.jpg",
+    "main": false,
+    "building": "Bulevardul Dacia, nr. 12"
+  },
+  {
+    "apartment": 27,
+    "image": "images/Apart27.8.jpg",
+    "main": false,
+    "building": "Bulevardul Dacia, nr. 12"
+  },
+  {
+    "apartment": 28,
+    "image": "images/Apart28.1.jpg",
+    "main": true,
+    "building": "Bulevardul Dacia, nr. 12"
+  },
+  {
+    "apartment": 28,
+    "image": "images/Apart28.2.jpg",
+    "main": false,
+    "building": "Bulevardul Dacia, nr. 12"
+  },
+  {
+    "apartment": 28,
+    "image": "images/Apart28.3.jpg",
+    "main": false,
+    "building": "Bulevardul Dacia, nr. 12"
+  },
+  {
+    "apartment": 28,
+    "image": "images/Apart28.4.jpg",
+    "main": false,
+    "building": "Bulevardul Dacia, nr. 12"
+  },
+  {
+    "apartment": 28,
+    "image": "images/Apart28.5.jpg",
+    "main": false,
+    "building": "Bulevardul Dacia, nr. 12"
+  },
+  {
+    "apartment": 28,
+    "image": "images/Apart28.6.jpg",
+    "main": false,
+    "building": "Bulevardul Dacia, nr. 12"
+  },
+  {
+    "apartment": 28,
+    "image": "images/Apart28.7.jpg",
+    "main": false,
+    "building": "Bulevardul Dacia, nr. 12"
+  },
+  {
+    "apartment": 28,
+    "image": "images/Apart28.8.jpg",
+    "main": false,
+    "building": "Bulevardul Dacia, nr. 12"
+  },
+  {
+    "apartment": 29,
+    "image": "images/Apart29.1.jpg",
+    "main": true,
+    "building": "Bulevardul Dacia, nr. 12"
+  },
+  {
+    "apartment": 29,
+    "image": "images/Apart29.2.jpg",
+    "main": false,
+    "building": "Bulevardul Dacia, nr. 12"
+  },
+  {
+    "apartment": 29,
+    "image": "images/Apart29.3.jpg",
+    "main": false,
+    "building": "Bulevardul Dacia, nr. 12"
+  },
+  {
+    "apartment": 29,
+    "image": "images/Apart29.4.jpg",
+    "main": false,
+    "building": "Bulevardul Dacia, nr. 12"
+  },
+  {
+    "apartment": 29,
+    "image": "images/Apart29.5.jpg",
+    "main": false,
+    "building": "Bulevardul Dacia, nr. 12"
+  },
+  {
+    "apartment": 29,
+    "image": "images/Apart29.6.jpg",
+    "main": false,
+    "building": "Bulevardul Dacia, nr. 12"
+  },
+  {
+    "apartment": 29,
+    "image": "images/Apart29.7.jpg",
+    "main": false,
+    "building": "Bulevardul Dacia, nr. 12"
+  },
+  {
+    "apartment": 29,
+    "image": "images/Apart29.8.jpg",
+    "main": false,
+    "building": "Bulevardul Dacia, nr. 12"
+  },
+  {
+    "apartment": 30,
+    "image": "images/Apart30.1.jpg",
+    "main": true,
+    "building": "Bulevardul Dacia, nr. 12"
+  },
+  {
+    "apartment": 30,
+    "image": "images/Apart30.2.jpg",
+    "main": false,
+    "building": "Bulevardul Dacia, nr. 12"
+  },
+  {
+    "apartment": 30,
+    "image": "images/Apart30.3.jpg",
+    "main": false,
+    "building": "Bulevardul Dacia, nr. 12"
+  },
+  {
+    "apartment": 30,
+    "image": "images/Apart30.4.jpg",
+    "main": false,
+    "building": "Bulevardul Dacia, nr. 12"
+  },
+  {
+    "apartment": 30,
+    "image": "images/Apart30.5.jpg",
+    "main": false,
+    "building": "Bulevardul Dacia, nr. 12"
+  },
+  {
+    "apartment": 30,
+    "image": "images/Apart30.6.jpg",
+    "main": false,
+    "building": "Bulevardul Dacia, nr. 12"
+  },
+  {
+    "apartment": 31,
+    "image": "images/Apart31.1.jpg",
+    "main": true,
+    "building": "Bulevardul Dacia, nr. 12"
+  },
+  {
+    "apartment": 31,
+    "image": "images/Apart31.2.jpg",
+    "main": false,
+    "building": "Bulevardul Dacia, nr. 12"
+  },
+  {
+    "apartment": 31,
+    "image": "images/Apart31.3.jpg",
+    "main": false,
+    "building": "Bulevardul Dacia, nr. 12"
+  },
+  {
+    "apartment": 31,
+    "image": "images/Apart31.4.jpg",
+    "main": false,
+    "building": "Bulevardul Dacia, nr. 12"
+  },
+  {
+    "apartment": 31,
+    "image": "images/Apart31.5.jpg",
+    "main": false,
+    "building": "Bulevardul Dacia, nr. 12"
+  },
+  {
+    "apartment": 31,
+    "image": "images/Apart31.6.jpg",
+    "main": false,
+    "building": "Bulevardul Dacia, nr. 12"
+  },
+  {
+    "apartment": 31,
+    "image": "images/Apart31.7.jpg",
+    "main": false,
+    "building": "Bulevardul Dacia, nr. 12"
+  },
+  {
+    "apartment": 31,
+    "image": "images/Apart31.8.jpg",
+    "main": false,
+    "building": "Bulevardul Dacia, nr. 12"
+  },
+  {
+    "apartment": 31,
+    "image": "images/Apart31.1.jpg",
+    "main": true,
+    "building": "Str. Ștefan cel Mare, nr. 5"
+  },
+  {
+    "apartment": 31,
+    "image": "images/Apart31.2.jpg",
+    "main": false,
+    "building": "Str. Ștefan cel Mare, nr. 5"
+  },
+  {
+    "apartment": 31,
+    "image": "images/Apart31.3.jpg",
+    "main": false,
+    "building": "Str. Ștefan cel Mare, nr. 5"
+  },
+  {
+    "apartment": 31,
+    "image": "images/Apart31.4.jpg",
+    "main": false,
+    "building": "Str. Ștefan cel Mare, nr. 5"
+  },
+  {
+    "apartment": 31,
+    "image": "images/Apart31.5.jpg",
+    "main": false,
+    "building": "Str. Ștefan cel Mare, nr. 5"
+  },
+  {
+    "apartment": 31,
+    "image": "images/Apart31.6.jpg",
+    "main": false,
+    "building": "Str. Ștefan cel Mare, nr. 5"
+  },
+  {
+    "apartment": 31,
+    "image": "images/Apart31.7.jpg",
+    "main": false,
+    "building": "Str. Ștefan cel Mare, nr. 5"
+  },
+  {
+    "apartment": 31,
+    "image": "images/Apart31.8.jpg",
+    "main": false,
+    "building": "Str. Ștefan cel Mare, nr. 5"
+  },
+  {
+    "apartment": 32,
+    "image": "images/Apart32.1.jpg",
+    "main": true,
+    "building": "Str. Ștefan cel Mare, nr. 5"
+  },
+  {
+    "apartment": 32,
+    "image": "images/Apart32.2.jpg",
+    "main": false,
+    "building": "Str. Ștefan cel Mare, nr. 5"
+  },
+  {
+    "apartment": 32,
+    "image": "images/Apart32.3.jpg",
+    "main": false,
+    "building": "Str. Ștefan cel Mare, nr. 5"
+  },
+  {
+    "apartment": 32,
+    "image": "images/Apart32.4.jpg",
+    "main": false,
+    "building": "Str. Ștefan cel Mare, nr. 5"
+  },
+  {
+    "apartment": 32,
+    "image": "images/Apart32.5.jpg",
+    "main": false,
+    "building": "Str. Ștefan cel Mare, nr. 5"
+  },
+  {
+    "apartment": 32,
+    "image": "images/Apart32.6.jpg",
+    "main": false,
+    "building": "Str. Ștefan cel Mare, nr. 5"
+  },
+  {
+    "apartment": 32,
+    "image": "images/Apart32.7.jpg",
+    "main": false,
+    "building": "Str. Ștefan cel Mare, nr. 5"
+  },
+  {
+    "apartment": 33,
+    "image": "images/Apart33.1.jpg",
+    "main": true,
+    "building": "Str. Ștefan cel Mare, nr. 5"
+  },
+  {
+    "apartment": 33,
+    "image": "images/Apart33.2.jpg",
+    "main": false,
+    "building": "Str. Ștefan cel Mare, nr. 5"
+  },
+  {
+    "apartment": 33,
+    "image": "images/Apart33.3.jpg",
+    "main": false,
+    "building": "Str. Ștefan cel Mare, nr. 5"
+  },
+  {
+    "apartment": 33,
+    "image": "images/Apart33.4.jpg",
+    "main": false,
+    "building": "Str. Ștefan cel Mare, nr. 5"
+  },
+  {
+    "apartment": 33,
+    "image": "images/Apart33.5.jpg",
+    "main": false,
+    "building": "Str. Ștefan cel Mare, nr. 5"
+  },
+  {
+    "apartment": 33,
+    "image": "images/Apart33.6.jpg",
+    "main": false,
+    "building": "Str. Ștefan cel Mare, nr. 5"
+  },
+  {
+    "apartment": 33,
+    "image": "images/Apart33.7.jpg",
+    "main": false,
+    "building": "Str. Ștefan cel Mare, nr. 5"
+  },
+  {
+    "apartment": 33,
+    "image": "images/Apart33.8.jpg",
+    "main": false,
+    "building": "Str. Ștefan cel Mare, nr. 5"
+  },
+  {
+    "apartment": 34,
+    "image": "images/Apart34.1.jpg",
+    "main": true,
+    "building": "Str. Alba Iulia, nr. 8"
+  },
+  {
+    "apartment": 34,
+    "image": "images/Apart34.2.jpg",
+    "main": false,
+    "building": "Str. Alba Iulia, nr. 8"
+  },
+  {
+    "apartment": 34,
+    "image": "images/Apart34.3.jpg",
+    "main": false,
+    "building": "Str. Alba Iulia, nr. 8"
+  },
+  {
+    "apartment": 34,
+    "image": "images/Apart34.4.jpg",
+    "main": false,
+    "building": "Str. Alba Iulia, nr. 8"
+  },
+  {
+    "apartment": 34,
+    "image": "images/Apart34.5.jpg",
+    "main": false,
+    "building": "Str. Alba Iulia, nr. 8"
+  },
+  {
+    "apartment": 34,
+    "image": "images/Apart34.6.jpg",
+    "main": false,
+    "building": "Str. Alba Iulia, nr. 8"
+  },
+  {
+    "apartment": 34,
+    "image": "images/Apart34.7.jpg",
+    "main": false,
+    "building": "Str. Alba Iulia, nr. 8"
+  },
+  {
+    "apartment": 34,
+    "image": "images/Apart34.8.jpg",
+    "main": false,
+    "building": "Str. Alba Iulia, nr. 8"
+  },
+  {
+    "apartment": 35,
+    "image": "images/Apart35.1.jpg",
+    "main": true,
+    "building": "Str. Alba Iulia, nr. 8"
+  },
+  {
+    "apartment": 35,
+    "image": "images/Apart35.2.jpg",
+    "main": false,
+    "building": "Str. Alba Iulia, nr. 8"
+  },
+  {
+    "apartment": 35,
+    "image": "images/Apart35.3.jpg",
+    "main": false,
+    "building": "Str. Alba Iulia, nr. 8"
+  },
+  {
+    "apartment": 35,
+    "image": "images/Apart35.4.jpg",
+    "main": false,
+    "building": "Str. Alba Iulia, nr. 8"
+  },
+  {
+    "apartment": 35,
+    "image": "images/Apart35.5.jpg",
+    "main": false,
+    "building": "Str. Alba Iulia, nr. 8"
+  },
+  {
+    "apartment": 35,
+    "image": "images/Apart35.6.jpg",
+    "main": false,
+    "building": "Str. Alba Iulia, nr. 8"
+  },
+  {
+    "apartment": 35,
+    "image": "images/Apart35.7.jpg",
+    "main": false,
+    "building": "Str. Alba Iulia, nr. 8"
+  }  
+]

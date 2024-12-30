@@ -1,0 +1,30 @@
+[
+  {
+    "name": "Ванна",
+    "icon": "icons/bathroom.png"
+  },
+  {
+    "name": "Кондиционер",
+    "icon": "icons/conditioner.png"
+  },
+  {
+    "name": "Балкон",
+    "icon": "icons/balcony.png"
+  },
+  {
+    "name": "Лифт",
+    "icon": "icons/elevator.png"
+  },
+  {
+    "name": "Парковка",
+    "icon": "icons/parking.png"
+  },
+  {
+    "name": "Вид",
+    "icon": "icons/view.png"
+  },
+  {
+    "name": "Wi-Fi",
+    "icon": "icons/wifi.png"
+  }
+]
