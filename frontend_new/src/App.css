@@ -1,0 +1,495 @@
+* {
+  margin: 0;
+  padding: 0;
+  font-family: "Lexend", sans-serif;
+  color: #222222;
+}
+
+body {
+  overflow-x: hidden;
+}
+
+.wrapper {
+  min-height: 100vh;
+  width: 100vw;
+  max-width: 100%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.header-and-content {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.container {
+  max-width: 1440px;
+  width: 100vw;
+  padding: 0 40px;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: column;
+}
+
+.header {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 20px 0;
+  margin-bottom: 40px;
+  width: 100vw;
+  box-sizing: border-box;
+  box-shadow: 0 1px 1px 1px rgba(18, 19, 19, 0.1);
+}
+
+.header-content {
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.logo {
+  height: 30px;
+}
+
+.header-menu {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.header-menu-link {
+  margin: 0 10px;
+  text-decoration: none;
+  font-size: 16px;
+  font-weight: 500;
+  border-radius: 20px;
+  padding: 10px 20px;
+  color: #929292;
+}
+
+.header-menu-link:not(.active):hover {
+  background-color: #F7F7F7;
+  color: #3F3F3F;
+}
+
+.header-menu-link.active {
+  color: #3F3F3F;
+  font-weight: 600;
+}
+
+.header-login {
+  cursor: pointer;
+  text-decoration: none;
+  font-size: 14px;
+  font-weight: 600;
+  padding: 10px 20px;
+  border-radius: 20px;
+  border: 1px solid #929292;
+}
+
+.header-login:hover {
+  box-shadow: 0px 2px 4px 1px rgba(18, 19, 19, 0.2);
+}
+
+.footer-background {
+  background-color: #F7F7F7;
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  margin-top: 40px;
+}
+
+.footer-subblock {
+  padding: 20px 0;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.footer-description {
+  font-size: 14px;
+  line-height: 1.5;
+}
+
+.footer-line {
+  height: 1px;
+  background-color: #9D9EA2;
+  opacity: 0.7;
+}
+
+.footer-menu {
+  display: flex;
+  align-items: center;
+}
+
+.footer-menu-text {
+  text-decoration: none;
+  font-size: 14px;
+}
+
+a.footer-menu-text:hover {
+  text-decoration: underline;
+}
+
+.footer-point {
+  width: 2px;
+  height: 2px;
+  border-radius: 1px;
+  margin: 0 10px;
+  background-color: #222222;
+}
+
+.footer-icons {
+  display: flex;
+  align-items: center;
+}
+
+.footer-icons svg {
+  display: block; 
+  height: 18px; 
+  width: 18px; 
+  fill: currentcolor;
+  margin-left: 10px;
+}
+
+.form-content {
+  display: flex;
+  flex-direction: column;
+  width: 600px;
+  margin: 0 auto;
+}
+
+.form-title {
+  color: #060709;
+  font-size: 16px;
+  font-weight: 600;
+  padding-bottom: 20px;
+  margin-bottom: 30px;
+  border-bottom: 1px solid #C8C9CB;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 100%;
+}
+
+.form-block {
+  display: flex;
+  flex-direction: column;
+}
+
+.form-fields {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 30px;
+  margin-bottom: 20px;
+}
+
+.form-field-block {
+  display: flex;
+  flex-direction: column;
+}
+
+.form-label {
+  color: #222222;
+  font-size: 12px;
+  margin-bottom: 10px;
+}
+
+.form-input {
+  border: 1px solid #9D9EA2;
+  border-radius: 5px;
+  font-size: 14px;
+  line-height: 1.5;
+  padding: 10px;
+  outline: none;
+}
+
+.form-input.wrong {
+  border-color: #EB2606;
+}
+
+.form-input:focus {
+  border-color: #222222;
+}
+
+.form-link {
+  text-align: center;
+  font-size: 14px;
+  color: #929292;
+  margin-top: 10px;
+  text-decoration: none;
+}
+
+.form-link:hover {
+  text-decoration: underline;
+}
+
+.form-button {
+  width: 100%;
+  padding: 15px;
+  border-radius: 5px;
+  border: none;
+  background: linear-gradient(90deg, rgba(0,244,214,1) 0%, rgba(0,204,231,1) 35%, rgba(4,175,245,1) 100%);
+  color: white;
+  font-size: 16px;
+  font-weight: 600;
+  cursor: pointer;
+}
+
+.apartments-apartments {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr 1fr;
+  gap: 30px;
+}
+
+.apartments-apartment {
+  display: flex;
+  flex-direction: column;
+  margin-bottom: 20px;
+  text-decoration: none;
+}
+
+.apartments-image {
+  width: 317.5px;
+  height: 317.5px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-bottom: 20px;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  border-radius: 20px;
+}
+
+.apartments-apartment-complex {
+  font-size: 16px;
+  font-weight: 600;
+  margin-bottom: 5px;
+}
+
+.apartments-apartment-address {
+  font-size: 14px;
+  color: #929292;
+  margin-bottom: 5px;
+}
+
+.apartments-apartment-rooms {
+  font-size: 14px;
+  color: #929292;
+  margin-bottom: 10px;
+}
+
+.apartments-apartment-price {
+  font-size: 16px;
+  font-weight: 600;
+  margin-bottom: 10px;
+}
+
+.apartments-apartment-price > span {
+  font-weight: 400;
+}
+
+.apartment-block {
+  display: flex;
+  justify-content: space-between;
+}
+
+.apartment-left {
+  width: 700px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.apartment-img-block {
+  width: 600px;
+  max-height: 400px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-bottom: 33px;
+}
+
+.apartment-img {
+  max-width: 600px;
+  max-height: 400px;
+}
+
+.apartment-mini-imgs {
+  display: grid;
+  grid-template-columns: 125px 125px 125px 125px;
+  gap: 33px;
+  width: 600px;
+}
+
+.apartment-mini-img {
+  max-width: 125px;
+  max-height: 100px;
+  margin: auto auto;
+  cursor: pointer;
+}
+
+.apartment-right {
+  display: flex;
+  flex-direction: column;
+  width: calc(100% - 750px);
+}
+
+.apartment-address {
+  font-size: 20px;
+  font-weight: 600;
+  margin-bottom: 15px;
+}
+
+.apartment-characteristics {
+  display: flex;
+  align-items: center;
+  margin-bottom: 15px;
+}
+
+.apartment-characteristic {
+  font-size: 16px;
+}
+
+.apartment-amenities {
+  margin-bottom: 30px;
+}
+
+.apartment-amenities-none {
+  display: none;
+}
+
+.apartment-amenity {
+  display: flex;
+  align-items: center;
+}
+
+.apartment-amenity img {
+  width: 16px;
+  margin-right: 10px;
+}
+
+.apartment-reservation-block {
+  padding: 20px;
+  border: 1px solid #9D9EA2;
+  border-radius: 20px;
+  box-shadow: rgba(0, 0, 0, 0.12) 0px 6px 16px;
+  display: flex;
+  flex-direction: column;
+}
+
+.apartment-price {
+  font-size: 16px;
+  font-weight: 600;
+  margin-bottom: 15px;
+}
+
+.apartment-price span {
+  font-weight: 400;
+}
+
+.react-datepicker-wrapper {
+  margin-bottom: 15px;
+}
+
+.apartment-reserve {
+  width: 100%;
+  box-sizing: border-box;
+  padding: 15px;
+  border-radius: 5px;
+  border: none;
+  background: linear-gradient(90deg, rgba(0,244,214,1) 0%, rgba(0,204,231,1) 35%, rgba(4,175,245,1) 100%);
+  color: white;
+  font-size: 16px;
+  font-weight: 600;
+  cursor: pointer;
+  text-align: center;
+}
+
+.apartment-reserve.blocked {
+  pointer-events: none;
+  background: linear-gradient(90deg, rgba(179,187,186,1) 0%, rgba(132,136,136,1) 35%, rgba(66,69,70,1) 100%);
+}
+
+.react-datepicker__input-container > input {
+  width: 100%;
+  box-sizing: border-box;
+  border: 1px solid #9D9EA2;
+  border-radius: 5px;
+  font-size: 14px;
+  line-height: 1.5;
+  padding: 5px;
+  outline: none;
+}
+
+.react-datepicker__day.reserved {
+  background-color: #F7F7F7 !important;
+  color: #9D9EA2;
+  border-radius: 0.3rem;
+}
+
+.apartment-login {
+  font-size: 14px;
+  text-decoration: none;
+  margin: 0 auto;
+}
+
+.reservations-reservation {
+  display: flex;
+  flex-direction: column;
+}
+
+.reservations-address {
+  font-size: 16px;
+  font-weight: 600;
+}
+
+.reservations-dates {
+  font-size: 14px;
+  color: #929292;
+  margin-bottom: 20px;
+}
+
+.apartments-filters {
+  display: flex;
+  align-items: center;
+  margin-bottom: 40px;
+}
+
+.apartments-filter {
+  display: flex;
+  flex-direction: column;
+}
+
+.apartments-filter-label {
+  color: #222222;
+  font-size: 12px;
+  margin-bottom: 10px;
+}
+
+.apartments-select {
+  margin-right: 20px;
+  border: 1px solid #9D9EA2;
+  border-radius: 5px;
+  font-size: 14px;
+  line-height: 1.5;
+  padding: 5px;
+  outline: none;
+  box-sizing: border-box;
+}
+
+.apartment-input {
+  border: 1px solid #9D9EA2;
+  border-radius: 5px;
+  font-size: 14px;
+  line-height: 1.5;
+  padding: 5px;
+  outline: none;
+  box-sizing: border-box;
+  width: 150px;
+}
